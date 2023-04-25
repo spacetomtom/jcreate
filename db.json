@@ -1,9 +1,72 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "channels": [
+    {
+      "link": "jonathanroyofficial",
+      "status": "valid",
+      "processedTime": null,
+      "viewed": false,
+      "processing": true,
+      "newIdeas": null,
+      "id": "iH_WgWJ"
+    },
+    {
+      "link": "mrbeast",
+      "status": "valid",
+      "processedTime": null,
+      "viewed": false,
+      "processing": false,
+      "newIdeas": null,
+      "id": "iH_WgWI"
+    },
+    {
+      "link": "pewdiepie",
+      "status": "valid",
+      "processedTime": "21/04/2023",
+      "viewed": true,
+      "processing": false,
+      "newIdeas": "2023-03-22T14:13:48.141Z",
+      "id": "iH_WgWC"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "ideas": [
+    {
+      "id": "12",
+      "channelId": "iH_WgWI",
+      "title": "Pendulum Painting Challenge: Can We Create Art Using Physics?",
+      "referenceVideo": "https://www.youtube.com/watch?v=DZ91nm81nk8",
+      "explanation": "Similar channel Jazza did a video that matches your channel's topic that has been overperforming, we think you should try a Pendulum Painting video as well",
+      "viewed": "2023-03-22T13:38:05.735Z",
+      "thumbnail": "https://static-cse.canva.com/blob/1028386/1600w-wK95f3XNRaM.jpg",
+      "rating": {
+        "score": 3,
+        "description": "Love it 😍"
+      }
+    },
+    {
+      "id": "123",
+      "channelId": "iH_WgWI",
+      "title": "Wood Burning: The Hottest New Drawing Challenge",
+      "referenceVideo": "https://www.youtube.com/watch?v=ovD37YQWnkE",
+      "explanation": "Similar channel Jazza did a video that matches your channel's topic that has been overperforming, we think you should try a Pendulum Painting video as well",
+      "viewed": "2023-03-22T13:40:03.772Z",
+      "thumbnail": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/153097929/original/fa358f547f735e7d968d69d98fd67edc64d8550d/design-amazing-youtube-thumbnail-in-2-hours.jpg",
+      "rating": {
+        "description": "not good",
+        "score": 2
+      }
+    },
+    {
+      "id": "1234",
+      "channelId": "iH_WgWI",
+      "title": "Unbelievable art with Pendulum Painting",
+      "referenceVideo": "https://www.youtube.com/watch?v=8ui9umU0C2g",
+      "explanation": "The Mystery Art Supply Challenge: Testing the Weirdest and Most Unusual Materials for Art-making",
+      "viewed": "2023-03-22T13:38:01.571Z",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ15cba23OViPBT6g0pr3RGwHOAV34Ypf_zbMaH6zws4ePD61SJ72wUPEyP1ghB7f3YbsY&usqp=CAU",
+      "rating": {
+        "description": "Published already",
+        "score": 2
+      }
+    }
+  ]
 }
