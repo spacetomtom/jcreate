@@ -12,6 +12,6 @@
     }
   ]
   "routes": [
-  {  "src":"/channels/(?<id>[^/]*/check-processing)","dest":"/channels?link=$id"}
+  {  "src":"/channels/(?<id>[^/]*)","dest":"/channels?link=$id"}
   ]
 }
