@@ -5,11 +5,5 @@
       "includeFiles": "db.json"
     }
   },
-  "rewrites": [
-    {
-      "source": "/(.*)",
-      "destination": "api/server.js"
-    }
-  ],
   "routes": [{ "src": "/channels/(?<id>[^/]+)", "dest": "/api/channels?link=$id" }]
 }
