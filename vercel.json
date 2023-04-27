@@ -11,4 +11,7 @@
       "destination": "api/server.js"
     }
   ]
+  "routes": [
+  {  "src":"/channels/(?<id>[^/]*/check-processing)","dest":"/channels?link=$id"}
+  ]
 }
