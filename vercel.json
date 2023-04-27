@@ -12,6 +12,7 @@
     }
   ]
   "routes": [
-  {  "src":"/channels/(?<id>[^/]*)","dest":"/channels?link=$id"}
+  {  "src":"/channel/(?<product>[^/]+)","dest":"/channels?link=$product"},
+{ "src": "/channel", "dest": "/channels" },
   ]
 }
