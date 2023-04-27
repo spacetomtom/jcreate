@@ -11,11 +11,5 @@
       "destination": "api/server.js"
     }
   ],
-  "routes": [
-  {  
-  "src":"/channel/(?<product>[^/]+)",
-  "dest":"/channels?link=$product"
-},
-{ "src": "/channel", "dest": "/channels" },
-  ]
+  "routes": [{ "src": "/channels/(?<id>[^/]+)", "dest": "/api/channels?link=$id" }]
 }
