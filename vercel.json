@@ -10,5 +10,8 @@
       "source": "/(.*)",
       "destination": "api/server.js"
     }
+  ],
+  "redirects": [
+    {"source":"/channel", "destination": "/channels"}
   ]
 }
