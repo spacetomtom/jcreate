@@ -35,12 +35,27 @@
       "title": "Pendulum Painting Challenge: Can We Create Art Using Physics?",
       "referenceVideo": "https://www.youtube.com/watch?v=DZ91nm81nk8",
       "explanation": "Similar channel Jazza did a video that matches your channel's topic that has been overperforming, we think you should try a Pendulum Painting video as well",
-      "viewed": "2023-03-22T13:38:05.735Z",
+      "viewed": "2023-04-25T12:05:14.307Z",
       "thumbnail": "https://static-cse.canva.com/blob/1028386/1600w-wK95f3XNRaM.jpg",
       "rating": {
         "score": 3,
-        "description": "Love it 😍"
-      }
+        "description": "LOVE IT 😍"
+      },
+      "badges": [
+        {
+          "type": "facebook"
+        },
+        {
+          "type": "hot"
+        },
+        {
+          "type": "fans-liked"
+        },
+        {
+          "type": "image",
+          "image": "https://images.pexels.com/photos/2570139/pexels-photo-2570139.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+        }
+      ]
     },
     {
       "id": "123",
@@ -48,12 +63,24 @@
       "title": "Wood Burning: The Hottest New Drawing Challenge",
       "referenceVideo": "https://www.youtube.com/watch?v=ovD37YQWnkE",
       "explanation": "Similar channel Jazza did a video that matches your channel's topic that has been overperforming, we think you should try a Pendulum Painting video as well",
-      "viewed": "2023-03-22T13:40:03.772Z",
+      "viewed": "2023-04-25T12:02:27.530Z",
       "thumbnail": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/153097929/original/fa358f547f735e7d968d69d98fd67edc64d8550d/design-amazing-youtube-thumbnail-in-2-hours.jpg",
       "rating": {
         "description": "not good",
         "score": 2
-      }
+      },
+      "badges": [
+        {
+          "type": "facebook"
+        },
+        {
+          "type": "hot"
+        },
+        {
+          "type": "image",
+          "image": "https://images.pexels.com/photos/2570139/pexels-photo-2570139.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+        }
+      ]
     },
     {
       "id": "1234",
@@ -66,7 +93,19 @@
       "rating": {
         "description": "Published already",
         "score": 2
-      }
+      },
+      "badges": [
+        {
+          "type": "image",
+          "image": "https://images.pexels.com/photos/2570139/pexels-photo-2570139.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+        },
+        {
+          "type": "facebook"
+        },
+        {
+          "type": "fans-liked"
+        }
+      ]
     }
   ]
 }
