@@ -1,3 +1,3 @@
 {
-  "/channels/:category/check-processing": "/channels?category=:category"
+  "/channels/:link/check-processing": "/channels?link=:link"
 }
