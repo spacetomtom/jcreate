@@ -9,8 +9,7 @@
     {
       "source": "/(.*)",
       "destination": "api/server.js"
-    },
-     {"source":"/channel", "destination": "/channels"}
+    }
   ],
   "redirects": [
     {"source":"/channel", "destination": "/channels"}
